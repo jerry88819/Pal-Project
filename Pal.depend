@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1665476590 source:c:\users\user\desktop\codeblocks\pal\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<sstream>
+	<vector>
+	<iomanip>
+	<queue>
+	<stack>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<exception>
+
